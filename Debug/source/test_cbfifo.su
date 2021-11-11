@@ -1,0 +1,3 @@
+test_cbfifo.c:33:5:test_cbfifo_1	40	static
+test_cbfifo.c:100:5:test_cbfifo_2	328	static
+test_cbfifo.c:168:5:test_cbfifo	16	static

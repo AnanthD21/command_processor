@@ -1,0 +1,7 @@
+cbfifo.c:46:6:initCirBuf	24	static
+cbfifo.c:78:6:updateWritePtr	16	static
+cbfifo.c:100:6:updateReadPtr	16	static
+cbfifo.c:124:8:cbfifo_enqueue	56	static
+cbfifo.c:184:8:cbfifo_dequeue	48	static
+cbfifo.c:238:8:cbfifo_length	24	static
+cbfifo.c:256:8:cbfifo_capacity	32	static
