@@ -11,7 +11,7 @@ called rxbuffer and txbuffer has been implemented.
 The above picture provides an overview of communication from UART hardware through buffers via sys functions till main.
 
 A sample command line interation has been pasted below:
-Welcome to BreakfastSerial!
+Welcome to BreakfastSerial! 
 ? author
 Ananth Deshpande
 
