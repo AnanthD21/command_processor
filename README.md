@@ -1,7 +1,7 @@
 ## BreakfastSerial
 
 Command Processor has been implemented using UART as the serial communication protocol on freedom KL25Z board.
-UART0 is kl25z has been employed with 24MHz as clock source.
+UART0 of kl25z has been employed with 24MHz as clock source.
 
 In order to recieve data from terminal window and also to output data to terminal window, two circular buffer
 called rxbuffer and txbuffer has been implemented.
